@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Divyessh's Blog - Tutorials</title><link href="https://divyessh.github.io/" rel="alternate"></link><link href="https://divyessh.github.io/feeds/tutorials.atom.xml" rel="self"></link><id>https://divyessh.github.io/</id><updated>2021-03-21T00:00:00+05:30</updated><entry><title>Programming Languages</title><link href="https://divyessh.github.io/programming-languages.html" rel="alternate"></link><published>2021-03-21T00:00:00+05:30</published><updated>2021-03-21T00:00:00+05:30</updated><author><name>Divyessh Maheshwari</name></author><id>tag:divyessh.github.io,2021-03-21:/programming-languages.html</id><summary type="html">&lt;h1&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;According to wikipedia :&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Computer programming is the process of designing and building an executable computer program to accomplish a specific computing result or to perform a specific task.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;That is correct and accurate but in layman terms:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It is the process of &lt;strong&gt;instructing computer&lt;/strong&gt; to &lt;strong&gt;perform different tasks&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Now …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;According to wikipedia :&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Computer programming is the process of designing and building an executable computer program to accomplish a specific computing result or to perform a specific task.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;That is correct and accurate but in layman terms:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It is the process of &lt;strong&gt;instructing computer&lt;/strong&gt; to &lt;strong&gt;perform different tasks&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Now what that simply states is that programming must consist of two features:
+- It should be instructing the computer.
+- It should be doing something that means resulting in any event.&lt;/p&gt;
+&lt;h1&gt;Programming Language&lt;/h1&gt;
+&lt;p&gt;Now to satisfy the first feature of programming, we need a medium so that we can send our instructions to computer. By that I mean since computers can not understand english ( or any other generally spoken langauge ), we need to express our instructions such that computers can understand them. In order to do this, we have designed several &lt;strong&gt;programming languages&lt;/strong&gt;. &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A programming language is the set of instructions through which humans interact with computers.
+These are the syntactically formed language which can be compiled so that it could be understood by the computer.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;How does computer understands the programming language&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Machine language is the language understood by a computer. It is very difficult to understand, but it is the only thing that the computer can work with. All programs and programming languages eventually generate or run programs in machine language.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Every programming language is converted into machine language , which has all the instructions as binary numbers , by a compiler ( or an interpreter ). &lt;/p&gt;
+&lt;h1&gt;Different programming languages&lt;/h1&gt;
+&lt;p&gt;Languages mainly vary on the basis of syntax, rules and speed.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Commonly more the rules and strict syntax the language has, the faster it is. ( Although this is not neccerily true)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Difference&lt;/h2&gt;
+&lt;p&gt;We can initially divide languages based on the way they are converted to machine Language:
+- Compiled :  &lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;A&lt;/span&gt; &lt;span class="n"&gt;compiler&lt;/span&gt; &lt;span class="n"&gt;produces&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;program&lt;/span&gt; &lt;span class="n"&gt;written&lt;/span&gt; &lt;span class="k"&gt;in&lt;/span&gt; &lt;span class="n"&gt;assembly&lt;/span&gt; &lt;span class="k"&gt;language&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt; &lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;assembler&lt;/span&gt; &lt;span class="k"&gt;of&lt;/span&gt; &lt;span class="n"&gt;architecture&lt;/span&gt; &lt;span class="k"&gt;then&lt;/span&gt; &lt;span class="n"&gt;turns&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;resulting&lt;/span&gt; &lt;span class="n"&gt;program&lt;/span&gt; &lt;span class="k"&gt;into&lt;/span&gt; &lt;span class="nb"&gt;binary&lt;/span&gt; &lt;span class="n"&gt;code&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Assembly&lt;/span&gt; &lt;span class="k"&gt;language&lt;/span&gt; &lt;span class="n"&gt;varies&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="k"&gt;each&lt;/span&gt; &lt;span class="n"&gt;individual&lt;/span&gt; &lt;span class="n"&gt;computer&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;depending&lt;/span&gt; &lt;span class="n"&gt;upon&lt;/span&gt; &lt;span class="n"&gt;its&lt;/span&gt; &lt;span class="n"&gt;architecture&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Consequently&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;compiled&lt;/span&gt; &lt;span class="n"&gt;programs&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="k"&gt;only&lt;/span&gt; &lt;span class="n"&gt;run&lt;/span&gt; &lt;span class="k"&gt;on&lt;/span&gt; &lt;span class="n"&gt;computers&lt;/span&gt; &lt;span class="n"&gt;that&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;same&lt;/span&gt; &lt;span class="n"&gt;architecture&lt;/span&gt; &lt;span class="k"&gt;as&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;computer&lt;/span&gt; &lt;span class="k"&gt;on&lt;/span&gt; &lt;span class="n"&gt;which&lt;/span&gt; &lt;span class="n"&gt;they&lt;/span&gt; &lt;span class="n"&gt;were&lt;/span&gt; &lt;span class="n"&gt;compiled&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;
+
+&lt;span class="n"&gt;A&lt;/span&gt; &lt;span class="n"&gt;compiled&lt;/span&gt; &lt;span class="n"&gt;program&lt;/span&gt; &lt;span class="k"&gt;is&lt;/span&gt; &lt;span class="k"&gt;not&lt;/span&gt; &lt;span class="n"&gt;human&lt;/span&gt; &lt;span class="n"&gt;readable&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;but&lt;/span&gt; &lt;span class="k"&gt;instead&lt;/span&gt; &lt;span class="k"&gt;is&lt;/span&gt; &lt;span class="k"&gt;in&lt;/span&gt; &lt;span class="n"&gt;an&lt;/span&gt; &lt;span class="n"&gt;architecture&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="k"&gt;specific&lt;/span&gt; &lt;span class="n"&gt;machine&lt;/span&gt; &lt;span class="k"&gt;language&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Creating&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;compiled&lt;/span&gt; &lt;span class="n"&gt;program&lt;/span&gt; &lt;span class="n"&gt;requires&lt;/span&gt; &lt;span class="n"&gt;several&lt;/span&gt; &lt;span class="n"&gt;steps&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;
+
+&lt;span class="n"&gt;Despite&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;drawback&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;compiled&lt;/span&gt; &lt;span class="n"&gt;programs&lt;/span&gt; &lt;span class="k"&gt;are&lt;/span&gt; &lt;span class="n"&gt;faster&lt;/span&gt; &lt;span class="k"&gt;than&lt;/span&gt; &lt;span class="n"&gt;those&lt;/span&gt; &lt;span class="n"&gt;that&lt;/span&gt; &lt;span class="n"&gt;must&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;run&lt;/span&gt; &lt;span class="n"&gt;through&lt;/span&gt; &lt;span class="n"&gt;an&lt;/span&gt; &lt;span class="n"&gt;interpreter&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Also&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="k"&gt;is&lt;/span&gt; &lt;span class="n"&gt;often&lt;/span&gt; &lt;span class="n"&gt;possible&lt;/span&gt; &lt;span class="k"&gt;to&lt;/span&gt; &lt;span class="n"&gt;recompile&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;program&lt;/span&gt; &lt;span class="n"&gt;so&lt;/span&gt; &lt;span class="n"&gt;that&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;will&lt;/span&gt; &lt;span class="n"&gt;run&lt;/span&gt; &lt;span class="k"&gt;on&lt;/span&gt; &lt;span class="n"&gt;different&lt;/span&gt; &lt;span class="n"&gt;platforms&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Examples&lt;/span&gt; &lt;span class="k"&gt;of&lt;/span&gt; &lt;span class="n"&gt;languages&lt;/span&gt; &lt;span class="n"&gt;that&lt;/span&gt; &lt;span class="k"&gt;are&lt;/span&gt; &lt;span class="n"&gt;normally&lt;/span&gt; &lt;span class="n"&gt;used&lt;/span&gt; &lt;span class="k"&gt;to&lt;/span&gt; &lt;span class="n"&gt;produce&lt;/span&gt; &lt;span class="n"&gt;compiled&lt;/span&gt; &lt;span class="n"&gt;programs&lt;/span&gt; &lt;span class="n"&gt;include&lt;/span&gt; &lt;span class="k"&gt;C&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="k"&gt;Fortran&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="k"&gt;and&lt;/span&gt; &lt;span class="k"&gt;COBOL&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Interpreted : 
+    In an interpreted program, on the other hand, the source code typically is the program. Programs of this type (often known as scripts) require an interpreter, which parses the commands in the program and then executes them. Some interpreters, such as the Unix shells (sh, csh, ksh, etc.), read and then immediately execute each command, while others, such as Perl, analyze the entire script before sending the corresponding machine language instructions. The advantage of a script is that it is very portable.&lt;/p&gt;
+&lt;p&gt;Any computer that has the appropriate interpreter installed may run the program more or less unchanged. This is a disadvantage as well, because the program will not run at all if the interpreter is not available. In general, interpreted programs are slower than compiled programs, but are easier to debug and revise. Other examples of interpreted languages include JavaScript and Python.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Major Languages&lt;/h1&gt;
+&lt;h2&gt;Python&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Python is powerful... and fast; plays well with others; runs everywhere; is friendly &amp;amp; easy to learn; is Open &lt;br&gt;
+~Python.org&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Python can be easy to pick up whether you're a first time programmer or you're experienced with other languages. &lt;/p&gt;
+&lt;p&gt;Python is a general-purpose language that is often used outside of websites. Python aims to be very readable, so even a beginner could figure out what some simple Python code accomplishes. Python has the unusual feature of using indentation to mark different parts of code. &lt;/p&gt;
+&lt;p&gt;It is mainly used for making Bots and Perofrming Artificial Intelligense and Data Science.&lt;/p&gt;
+&lt;p&gt;Its keypoints are:
+- Interpreter Based
+- Minimal Set of rules
+- Comparitively slower then other compiler based laguages but fast in interpreter based languages
+- Object Oriented&lt;/p&gt;
+&lt;p&gt;It was my first language and was very easy to learn for me. You can look more about it in my other posts.&lt;/p&gt;
+&lt;h2&gt;Java&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Java is at the heart of our digital lifestyle. It's the platform for launching careers, exploring human-to-digital interfaces, architecting the world's best applications, and unlocking innovation everywhere—from garages to global organizations.
+~Go.java&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Java code does not get directly converted into machine code. Instead it runs on a "virtual machine" which can run on all sorts of different hardware. This lets Java fulfill their slogan of "Write once, run anywhere". Java was once intended for widespread use on web browsers, but that is less common and a very different language is used for that (JavaScript). It is used in regular desktop applications, but its most popular consumer use is for creating Android apps.&lt;/p&gt;
+&lt;p&gt;Its Keypoints are:
+- Compiler Based ( Virtual Machine )
+- User Friendly
+- Object Oriented
+- Fast as compared to other interpreted based languages, but relatively slow in compiled languages.&lt;/p&gt;
+&lt;h2&gt;C&lt;/h2&gt;
+&lt;p&gt;The C language is the 'grandfather' of modern languages, and it (and C++) influenced many languages, especially Java and C#. Many lower-level systems (and language compilers themselves) are written in C.&lt;/p&gt;
+&lt;p&gt;It is considered as one of the Fastest languages and is used for making compilers, games, applications, operating system and almost everywhere where speed is one of the primary factor.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Note: I have only mentioned 3 Languages and I am sorry if I didn't mention your major one. I hope that you will join my facebook group to get in touch. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;Social Media&lt;/h3&gt;
+&lt;p&gt;The following is its link : 
+- &lt;a href="https://www.facebook.com/Divyesshs-Blog-104379424717849"&gt;FaceBook Page&lt;/a&gt;
+- &lt;a href="https://www.facebook.com/groups/feed/"&gt;FaceBook Group&lt;/a&gt;&lt;/p&gt;</content><category term="Tutorials"></category></entry></feed>
