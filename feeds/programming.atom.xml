@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Divyessh's Blog - Tutorials</title><link href="https://divyessh.github.io/" rel="alternate"></link><link href="https://divyessh.github.io/feeds/tutorials.atom.xml" rel="self"></link><id>https://divyessh.github.io/</id><updated>2021-03-21T00:00:00+05:30</updated><entry><title>Programming Languages</title><link href="https://divyessh.github.io/programming-languages.html" rel="alternate"></link><published>2021-03-21T00:00:00+05:30</published><updated>2021-03-21T00:00:00+05:30</updated><author><name>Divyessh Maheshwari</name></author><id>tag:divyessh.github.io,2021-03-21:/programming-languages.html</id><summary type="html">&lt;h1&gt;Introduction&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Divyessh's Blog - Programming</title><link href="https://divyessh.github.io/" rel="alternate"></link><link href="https://divyessh.github.io/feeds/programming.atom.xml" rel="self"></link><id>https://divyessh.github.io/</id><updated>2021-03-21T00:00:00+05:30</updated><entry><title>Programming Languages</title><link href="https://divyessh.github.io/programming-languages.html" rel="alternate"></link><published>2021-03-21T00:00:00+05:30</published><updated>2021-03-21T00:00:00+05:30</updated><author><name>Divyessh Maheshwari</name></author><id>tag:divyessh.github.io,2021-03-21:/programming-languages.html</id><summary type="html">&lt;h1&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;According to wikipedia :&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Computer programming is the process of designing and building an executable computer program to accomplish a specific computing result or to perform a specific task.&lt;/p&gt;
@@ -89,4 +89,4 @@ These are the syntactically formed language which can be compiled so that it cou
 &lt;h3&gt;Social Media&lt;/h3&gt;
 &lt;p&gt;The following is its link : 
 - &lt;a href="https://www.facebook.com/Divyesshs-Blog-104379424717849"&gt;FaceBook Page&lt;/a&gt;
-- &lt;a href="https://www.facebook.com/groups/feed/"&gt;FaceBook Group&lt;/a&gt;&lt;/p&gt;</content><category term="Tutorials"></category></entry></feed>
+- &lt;a href="https://www.facebook.com/groups/feed/"&gt;FaceBook Group&lt;/a&gt;&lt;/p&gt;</content><category term="Programming"></category></entry></feed>

@@ -89,7 +89,7 @@ These are the syntactically formed language which can be compiled so that it cou
 &lt;h3&gt;Social Media&lt;/h3&gt;
 &lt;p&gt;The following is its link : 
 - &lt;a href="https://www.facebook.com/Divyesshs-Blog-104379424717849"&gt;FaceBook Page&lt;/a&gt;
-- &lt;a href="https://www.facebook.com/groups/feed/"&gt;FaceBook Group&lt;/a&gt;&lt;/p&gt;</content><category term="Tutorials"></category></entry><entry><title>API - An application programming interface</title><link href="https://divyessh.github.io/api-an-application-programming-interface.html" rel="alternate"></link><published>2020-10-29T00:00:00+05:30</published><updated>2020-10-29T00:00:00+05:30</updated><author><name>Divyessh Maheshwari</name></author><id>tag:divyessh.github.io,2020-10-29:/api-an-application-programming-interface.html</id><summary type="html">&lt;h1&gt;Introduction&lt;/h1&gt;
+- &lt;a href="https://www.facebook.com/groups/feed/"&gt;FaceBook Group&lt;/a&gt;&lt;/p&gt;</content><category term="Programming"></category></entry><entry><title>API - An application programming interface</title><link href="https://divyessh.github.io/api-an-application-programming-interface.html" rel="alternate"></link><published>2020-10-29T00:00:00+05:30</published><updated>2020-10-29T00:00:00+05:30</updated><author><name>Divyessh Maheshwari</name></author><id>tag:divyessh.github.io,2020-10-29:/api-an-application-programming-interface.html</id><summary type="html">&lt;h1&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;'An application programming interface (API) is a computing interface which defines interactions between multiple software intermediaries.'&lt;/p&gt;
 &lt;p&gt;Today we are going to discuss about different API frameworks in Python.&lt;/p&gt;
 &lt;p&gt;Both Django and Flask are great frameworks.
